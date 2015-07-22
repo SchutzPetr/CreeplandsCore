@@ -1,0 +1,6 @@
+Version: 1
+
+DefaultUserSettings:
+   MaxAreas: 3
+   #80*80*3//plocha 80*80 * 3 oblasti
+   MaxExpanseToClaim: 19200
